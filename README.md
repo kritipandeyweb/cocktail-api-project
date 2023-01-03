@@ -1,4 +1,4 @@
 #### CRA Fix
 
-"build": "CI= react-scripts build",
+"build": "CI= react-scripts build"
 
