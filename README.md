@@ -1,6 +1,3 @@
-#### Link : 
-https://cocktailsapi-react-project.netlify.app/
-
 
 #### CRA Fix
 
